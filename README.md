@@ -1,2 +1,2 @@
 # BigThing
-Algorithm related code
+Algorithm related code containing sorting, dynamic programming, etc
